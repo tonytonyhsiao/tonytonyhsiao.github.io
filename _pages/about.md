@@ -6,6 +6,21 @@ permalink: /about/
 
 ![Profile Picture](/images/profilepic.JPG)
 
+
+---
+layout: post
+title: "Welcome to My Site"
+date: 2024-07-01
+---
+
+# Welcome to My Site
+
+<img src="/images/profilepic.JPG" alt="Profile Picture" width="300" height="300">
+
+Welcome to my personal blog. Here, I share my experiences as a Computer Vision/Machine Learning Engineer.
+
+
+
 [Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
 
 This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
