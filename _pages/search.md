@@ -1,8 +1,11 @@
-<!-- ---
+---
 layout: page
-title: Search
+title: CV
 permalink: /search/
 ---
+Click the link below to view the PDF file:
+[View PDF](assets/TUNG_HSIAO_RESUME.pdf)
+
 
 <div id="search-container">
     <input type="text" id="search-input" placeholder="Search through the blog posts...">
@@ -18,9 +21,5 @@ permalink: /search/
     searchResultTemplate: '<div style="text-align: left !important;"><a href="{url}"><h1 style="text-align:left !important;">{title}</h1></a><span style="text-align:left !important;">{date}</span></div>',
     json: '{{ site.baseurl }}/search.json'
     });
-</script> -->
-# Welcome to My Website
+</script>
 
-Click the link below to view the PDF file:
-
-[View PDF](assets/TUNG_HSIAO_RESUME.pdf)
