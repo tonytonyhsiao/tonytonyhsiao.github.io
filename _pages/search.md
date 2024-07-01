@@ -1,7 +1,7 @@
 ---
 layout: page
 title: CV
-permalink: /search/
+permalink: /assets/TUNG_HSIAO_RESUME.pdf
 ---
 Click the link below to view the PDF file:
 [View PDF](assets/TUNG_HSIAO_RESUME.pdf)
